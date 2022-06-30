@@ -1,1 +1,1 @@
-# shiny-octo-winner
+# Just SE students DataBase
